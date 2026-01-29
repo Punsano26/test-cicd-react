@@ -19,14 +19,14 @@ function App() {
     <>
       <div className='p-6'>
         <div className="grid grid-cols-4">
-          <h1 className="text-lg font-bold text-red-500">hello world</h1>
-          <h1 className="text-lg font-bold text-red-500">hello world</h1>
-          <h1 className="text-lg font-bold text-red-500">hello world</h1>
-          <h1 className="text-lg font-bold text-red-500">hello world</h1>
-          <h1 className="text-lg font-bold text-red-500">hello world</h1>
-          <h1 className="text-lg font-bold text-red-500">hello world</h1>
-          <h1 className="text-lg font-bold text-red-500">hello world</h1>
-          <h1 className="text-lg font-bold text-red-500">hello world</h1>
+          <h1 className="text-lg font-bold text-customblue">custom blue</h1>
+          <h1 className="text-lg font-bold text-custompink">custom pink</h1>
+          <h1 className="text-lg font-bold text-customblue">custom blue</h1>
+          <h1 className="text-lg font-bold text-custompink">custom pink</h1>
+          <h1 className="text-lg font-bold text-customblue">custom blue</h1>
+          <h1 className="text-lg font-bold text-custompink">custom pink</h1>
+          <h1 className="text-lg font-bold text-customblue">custom blue</h1>
+          <h1 className="text-lg font-bold text-custompink">custom pink</h1>
           <input
             onChange={handleChange}
             type="text"
